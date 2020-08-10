@@ -3,10 +3,6 @@ print("\t数字炸弹\n")
 while 1:
     min = int(input("请输入最小数："))
     max = int(input("请输入最大数："))
-    if min<max:
-        break
-    else:
-        print("输入不合法，请重新输入")
 a = random.randint(min,max)
 print(a)
 round=0
