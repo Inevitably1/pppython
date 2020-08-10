@@ -7,9 +7,9 @@ a = random.randint(min,max)
 print(a)
 round=0
 while 1:
-    b=int(input("请输入%d到%d的数："%(min,max)))
+    b=int(input("输入%d到%d的数："%(min,max)))
     if b>max or b<min:
-            print("输入不合法，请重新输入")
+            print("输入不合法，重新输入")
     else:
         round+=1
         if b>a:
