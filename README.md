@@ -89,6 +89,6 @@ while 1:
 print("回合数=%d"%round)
 ```
 ## 四、运行效果：
-![](2020-08-11_081301.png)
+![](pictureee.jpg)
 
 
